@@ -378,7 +378,7 @@
     border-radius: 0px;
     padding-bottom: 15px;
     margin-bottom: 15px;
-    width: 25vw;
+    width: 23vw;
 
 }
 
@@ -400,6 +400,7 @@
     font-weight: bold;
     line-height: 20px;
     cursor: pointer;
+    width: 15vw;
 }
 
 .righty_title:hover {
@@ -417,7 +418,7 @@ red {
     line-height: 14px;
     font-weight: bold;
     color: #555;
-    width: 17.4vw;
+    width: 15vw;
 }
 
 /** sponsor **/ 
