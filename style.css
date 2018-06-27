@@ -392,7 +392,7 @@
     flex-direction: column;
     margin-left: 10px;
     margin-top: 15px;
-    width: 16.4vw;
+    width: 13vw;
 }
 
 .righty_title {
@@ -400,7 +400,7 @@
     font-weight: bold;
     line-height: 20px;
     cursor: pointer;
-    width: 15vw;
+    width: 13vw;
 }
 
 .righty_title:hover {
@@ -418,7 +418,7 @@ red {
     line-height: 14px;
     font-weight: bold;
     color: #555;
-    width: 15vw;
+    width: 13vw;
 }
 
 /** sponsor **/ 
